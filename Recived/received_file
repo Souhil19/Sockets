@@ -1,0 +1,15 @@
+Parcs verdoyants = Vrai
+Avenues larges = Vrai
+Monuments = Vrai
+Restaurants 3 toques = Vrai
+Ville ancienne = Vrai
+
+si Belle ville = Vrai et Très bons restaurants = Vrai alors Ville méritant le voyage = Vrai
+si Ville historique = Vrai alors Ville méritant le voyage = Vrai
+si Autochtones accueillants = Vrai et Traditions folkloriques = Vrai alors Ville méritant le voyage = Vrai
+si Tradition culinaire = Vrai alors Bons restaurants = Vrai
+si Restaurants 3 étoiles = Vrai alors Très bons restaurants = Vrai
+si Restaurants 3 toques = Vrai alors Très bons restaurants = Vrai
+si Musées = Vrai et Ville ancienne = Vrai alors Ville historique = Vrai
+si Provence = Vrai et Bord de mer = Vrai alors Autochtones accueillants = Vrai
+si Parcs verdoyants = Vrai et Avenues larges = Vrai alors Végétation abondante = Vrai
